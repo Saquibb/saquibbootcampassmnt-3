@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hello.css';
 
-function Hello({}) {
+function Hello() {
   return (
     <div>
       <h2 className='name'>Drinks </h2>
