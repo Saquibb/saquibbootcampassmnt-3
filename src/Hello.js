@@ -1,9 +1,10 @@
 import React from 'react';
+import './Hello.css';
 
 function Hello({}) {
   return (
     <div>
-      <h2>Drinks </h2>
+      <h2 className='name'>Drinks </h2>
       <ol>
         <li>Coffee</li>
         <li>Tea</li>
