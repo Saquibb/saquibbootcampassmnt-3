@@ -5,7 +5,7 @@ import './App.css';
 function App({ name }) {
   return (
     <div>
-      Hello {name}!
+      Hello <strong>{name}</strong>!
       <br />
     </div>
   );
