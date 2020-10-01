@@ -5,11 +5,11 @@ function Hello() {
   return (
     <div>
       <h2 className='name'>Drinks </h2>
-      <ol>
+      <ul>
         <li>Coffee</li>
         <li>Tea</li>
         <li>drink</li>
-      </ol>
+      </ul>
     </div>
   );
 }
